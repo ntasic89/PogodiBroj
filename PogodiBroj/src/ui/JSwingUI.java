@@ -116,7 +116,7 @@ public class JSwingUI extends JFrame {
 		contentPane.add(txtIspis);
 		txtIspis.setColumns(10);
 		
-		JLabel lblVas2 = new JLabel("od trazenog.");
+		JLabel lblVas2 = new JLabel("od trazenooooog.");
 		lblVas2.setBounds(229, 154, 141, 14);
 		contentPane.add(lblVas2);
 		
@@ -139,7 +139,7 @@ public class JSwingUI extends JFrame {
 		contentPane.add(lblPoeni);
 		
 		txtPoeni = new JTextField();
-		txtPoeni.setEditable(false);
+		txtPoeni.setEditable(true);
 		txtPoeni.setBounds(70, 231, 146, 26);
 		contentPane.add(txtPoeni);
 		txtPoeni.setColumns(10);
